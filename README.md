@@ -3,8 +3,6 @@
 ## Overview
 Quran Tab is a Chrome extension that replaces your new tab with a random verse (ayah) from the Quran. It aims to keep you inspired by presenting a different verse each time you open a new tab.
 
-![Quran Tab](./images/screenshot.png)
-
 ## Features
 
 - **+15 Translations:** Supports more than 15 translations of the Quran. Choose your preferred translation from the settings page.
