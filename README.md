@@ -13,4 +13,4 @@ Quran Tab is a Chrome extension that replaces your new tab with a random verse (
 ## screenshot
 ![screencapture-quran-tab-page-vercel-app-2024-01-29-17_44_46](https://github.com/mhmodfrmwi/Quran-tab-page/assets/151141036/5593f9dc-008a-4556-b2df-0dc8164ba662)
 ## live-version
-https://quran-tab-page.vercel.app/
+### https://quran-tab-page.vercel.app/
