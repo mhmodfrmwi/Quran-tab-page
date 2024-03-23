@@ -1,4 +1,4 @@
-# Quran Tab Chrome Extension
+# Quran Tab Landing Page
 
 ## Overview
 Quran Tab landing page is page that represent the chrome extension Quran Tab
